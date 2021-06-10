@@ -1,1 +1,9 @@
+async-generator==1.10
+deprecation==2.1.0
+packaging==20.9
+Pillow==8.2.0
+pyparsing==2.4.7
 pypresence==4.2.0
+pystray==0.17.3
+pytray==0.3.2
+six==1.16.0
